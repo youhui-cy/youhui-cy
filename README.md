@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 - 🌎 I’m in San Francisco, California
   
-- 🧠 I'm learning QA software engineering program at [Tripleten](https://tripleten.com/qa-engineer)
+- 🧠 I'm learned QA software engineering program at [Tripleten](https://tripleten.com/qa-engineer)
 
 - 🧐 I love reading books, random books.
 
